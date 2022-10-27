@@ -14,21 +14,25 @@
 #title-box{
     margin: auto;
     text-align: center;
+    background-color: #61a9e4;
+    border-radius: 20px;
+    padding: 20px;
 }
 
 #title-box h1{
     font-size: 48px;
-    margin: 10px 0px;
+    margin: 10px 20px;
+    background-color: #61a9e4;
 }
 #title-box h4{
-    margin: 15px 0px;
+    margin: 100px 0px;
     
 }
 
 .status-box{
     align-items: center;
     border-radius: 20px;
-    background-color: #ECEBE4;
+    background-color: #61a9e4;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -42,7 +46,7 @@
 }
 
 .status-info{
-    margin-top: 30px;
+    margin-top: 50px;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
